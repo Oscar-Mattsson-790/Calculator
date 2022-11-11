@@ -1,0 +1,6 @@
+.calc-container {
+  background-color: rgb(69, 69, 66);
+  border-radius: 8px;
+  max-width: 20rem;
+  padding: 0.8rem;
+}
